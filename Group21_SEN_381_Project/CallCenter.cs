@@ -84,18 +84,5 @@ public class CallCenter
 	}
 
     //overrides
-    toString()
-    {
-
-    }
-
-    equals()
-    {
-
-    }
-
-    getHashCode()
-    {
-
-    }
+    
 }
